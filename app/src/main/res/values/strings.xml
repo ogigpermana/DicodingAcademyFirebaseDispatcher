@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">MyFirebaseDispatcher</string>
+    <string name="app_name">My Firebase Dispatcher</string>
+    <string name="desc">Fresh the set scheduler button to start schedule task and fresh the cancel scheduler button to cancel schedule task </string>
+    <string name="set_scheduler">Set Scheduler</string>
+    <string name="cancel_scheduler">Cancel Scheduler</string>
 </resources>
